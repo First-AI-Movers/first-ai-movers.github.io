@@ -29,7 +29,7 @@ GitHub namespace `First-AI-Movers` to canonical public work.
 ## Public references
 
 - Main site: https://firstaimovers.com
-- Newsletter / daily intelligence: https://www.firstaimovers.com
+- Company website: https://www.firstaimovers.com
 - Real-time AI signal radar: https://radar.firstaimovers.com
 - Open article archive: https://articles.firstaimovers.com
 - GitHub organization: https://github.com/First-AI-Movers
