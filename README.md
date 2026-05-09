@@ -77,6 +77,11 @@ Before committing changes:
 - JSON-LD parses as valid JSON
 - `robots.txt` includes `Sitemap:` directive
 - Every `href` resolves (HEAD 200) except documented bot-protection cases
+- Known bot-protected URLs that may return non-200 to automated HEAD checks even when valid:
+  `https://www.linkedin.com/in/hernani-costa-ai-ceo-firstaimovers/`,
+  `https://radar.firstaimovers.com`,
+  `https://firstaimovers.com`,
+  `https://www.firstaimovers.com`
 - No secrets, tokens, or local paths in tracked files
 
 ## License
