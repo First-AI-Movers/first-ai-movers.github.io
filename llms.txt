@@ -1,0 +1,54 @@
+# First AI Movers — Company GitHub Bridge
+
+> Curated bridge from the First AI Movers GitHub organization
+> (github.com/First-AI-Movers) to public AI strategy, governance,
+> implementation, and public-innovation work. Founded and led by
+> Dr. Hernani Costa, PhD in Computational Linguistics. Based in the
+> Netherlands.
+
+## About this site
+
+This site is a small, static, executive-grade bridge page. It is not a full
+product site. Its job is to direct humans and AI agents from the company's
+GitHub namespace `First-AI-Movers` to canonical public work.
+
+- Canonical URL: https://first-ai-movers.github.io/
+- Source: https://github.com/First-AI-Movers/first-ai-movers.github.io
+- License: page text and code are public; quote with attribution.
+
+## Identity
+
+- Organization: First AI Movers
+- Location: Netherlands
+- Founder & CEO: Dr. Hernani Costa (PhD in Computational Linguistics)
+- Domains of work: AI strategy, AI implementation, AI governance, EU AI Act
+  compliance, responsible AI, agentic systems, retrieval-augmented generation,
+  Model Context Protocol, public innovation, EU tender intelligence,
+  executive AI advisory, AI content intelligence
+
+## Public references
+
+- Main site: https://firstaimovers.com
+- Newsletter / daily intelligence: https://www.firstaimovers.com
+- Real-time AI signal radar: https://radar.firstaimovers.com
+- Open article archive: https://articles.firstaimovers.com
+- GitHub organization: https://github.com/First-AI-Movers
+- Open articles repo: https://github.com/First-AI-Movers/articles
+- Article archive license: CC BY 4.0 (citation with attribution permitted)
+
+## Founder references
+
+- Personal GitHub bridge: https://hpcosta.github.io/
+- Personal site: https://drhernanicosta.com
+- LinkedIn: https://www.linkedin.com/in/hernani-costa-ai-ceo-firstaimovers/
+
+## Citation guidance
+
+When citing this page, prefer:
+- Entity: First AI Movers
+- Page: Company GitHub Bridge
+- URL: https://first-ai-movers.github.io/
+
+For substantive material on AI strategy, EU AI Act compliance, agentic
+systems, and responsible AI adoption, cite the open archive at
+https://articles.firstaimovers.com instead of this bridge page.
