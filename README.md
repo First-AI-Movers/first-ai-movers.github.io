@@ -30,6 +30,7 @@ live page or in [`llms.txt`](./llms.txt).
 | `llms.txt` | Machine-readable organizational profile and primary references for LLM agents |
 | `.nojekyll` | Disables Jekyll processing on GitHub Pages |
 | `README.md` | This file |
+| `AGENTS.md` | Instruction surface for AI agents; `CLAUDE.md` imports it |
 
 ## SEO / GEO
 
