@@ -32,6 +32,19 @@ authorization levels and no per-turn approval phrases. Ask a person only for
 something genuinely human-only: a domain or DNS change, a new legal or financial
 commitment, or publishing something whose disclosure decision has not been made.
 
+When an owned next effect is temporarily blocked on a routine dependency — a
+pending PR, a gate run, an AI review, or another owner — do exactly one of:
+(a) execute the next dependency-ready effect; (b) send one bounded
+GitHub-native handoff (an Issue or PR comment) to the existing known owner and
+continue disjoint work; or (c) persist a typed wake predicate and yield to the
+existing continuation machinery, which wakes exactly one successor when the
+predicate changes (`DEPENDENCY_WAIT_PERSISTS_WAKE_PREDICATE`). A successor
+session reconstructs from GitHub Issues, PRs and current `main` alone — no
+transcript, no operator copy-paste, no operator relay
+(`SESSION_ROLLOVER_RECONSTRUCTS_FROM_GITHUB`). A pending PR, gate, or review
+state is never a session terminal and never a reason to return to the operator
+for `continue`.
+
 ## Constraints the stack imposes
 
 Static HTML and CSS. **No JavaScript, no build system, no framework, no external
