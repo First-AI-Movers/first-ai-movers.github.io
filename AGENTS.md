@@ -28,9 +28,10 @@ not wait. `aeos-merge-ready` — the organization's required verdict, served fro
 `First-AI-Movers/.github` — is the one merge-blocking check.
 
 An admitted Issue is the authorization for the work it describes. There are no
-authorization levels and no per-turn approval phrases. Ask a person only for
-something genuinely human-only: a domain or DNS change, a new legal or financial
-commitment, or publishing something whose disclosure decision has not been made.
+authorization levels and no per-turn approval phrases. Mechanical domain or DNS
+work within that authority follows the existing procedure. A new domain, wider
+authority, new legal or financial commitment, or a publication or disclosure
+decision that has not been made remains a principal decision.
 
 When an owned next effect is temporarily blocked on a routine dependency — a
 pending PR, a gate run, an AI review, or another owner — do exactly one of:
