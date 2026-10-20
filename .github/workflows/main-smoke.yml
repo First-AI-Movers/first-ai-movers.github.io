@@ -1,0 +1,15 @@
+name: main-smoke
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    uses: First-AI-Movers/.github/.github/workflows/aeos-main-smoke.yml@main
+    secrets:
+      AEOS_REVERT_APP_PRIVATE_KEY: ${{ secrets.AEOS_REVERT_APP_PRIVATE_KEY }}
