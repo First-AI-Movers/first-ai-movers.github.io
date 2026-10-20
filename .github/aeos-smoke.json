@@ -1,0 +1,10 @@
+{
+  "schema_version": "1",
+  "commands": [
+    {
+      "name": "static-site",
+      "run": "python3 scripts/check_site.py"
+    }
+  ],
+  "timeout_seconds": 60
+}

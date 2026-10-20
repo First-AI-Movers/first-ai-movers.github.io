@@ -71,6 +71,11 @@ python3 -m http.server 8000
 
 ## Validation
 
+Before committing changes, run `python3 scripts/check_site.py` for dependency-free
+validation of internal links and fragments, sitemap targets, JSON-LD parsing,
+headings, and the robots sitemap directive. This checks the static source tree
+served directly by Pages; external link availability remains a separate check.
+
 Before committing changes:
 
 - One `<h1>`, monotonic heading order
